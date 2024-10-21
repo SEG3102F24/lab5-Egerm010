@@ -1,4 +1,4 @@
-# Eric Germond, Student # 0300164005. Code originated from given lab5 address book example, and I extended it to work with employees instead. Address-list compenent is where new button code is.
+# Eric Germond, Student # 0300164005. Code originated from given lab5 address book example, and I extended it to work with employees instead. Address-list compenent is where new button code is, and note that the employee components were not actually used.
 
 # INSTRUCTIONS: login with test4@gmail.com (password test444) and press display all employees button to see example employee. You can also create more employees by pressing the address book button, but be sure to fill in every field, or else the form will not work.
 
