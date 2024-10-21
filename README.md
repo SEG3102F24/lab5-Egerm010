@@ -1,3 +1,5 @@
+# Eric Germond, Student # 0300164005. Code originated from given lab5 address book example, and I extended it to work with employees instead.
+
 # AddressBook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
