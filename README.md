@@ -1,4 +1,8 @@
-# Eric Germond, Student # 0300164005. Code originated from given lab5 address book example, and I extended it to work with employees instead.
+# Eric Germond, Student # 0300164005. Code originated from given lab5 address book example, and I extended it to work with employees instead. Address-list compenent is where new button code is.
+
+# INSTRUCTIONS: login with test4@gmail.com (password test444) and press display all employees button to see example employee. You can also create more employees by pressing the address book button, but be sure to fill in every field, or else the form will not work.
+
+# OR: create a new account with the sign up button, create employees with the address book button, and then view them from the firebase database with the display employee button.
 
 # AddressBook
 
